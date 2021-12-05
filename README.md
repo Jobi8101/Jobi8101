@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jobi8101
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL and Python
 - 📫 How to reach me Masterj810@aol.com
 
